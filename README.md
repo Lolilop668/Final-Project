@@ -8,7 +8,7 @@ This project predicts the nightly price of an Airbnb listing from its property a
 
 ## Group
 
-Group 15. Members: Mathieu, Serghei, and Samy. We are exchange students from EISEA taking CPE393 at KMUTT.
+Group 15. Members: Mathieu, Serghei, and Samy. We are exchange students from ESIEA taking CPE393 at KMUTT.
 
 Instructors: Ajan Aye Hninn Khine and Ajan Naveed Sultan.
 
