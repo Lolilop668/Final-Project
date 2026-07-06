@@ -27,9 +27,7 @@ CPE_Project_Group15/
   project_notebook.ipynb      # the full pipeline
   project_summary.pdf         # the 15-20 page report
   presentation_slides.pptx    # slides for the presentation
-  presentation_script.md      # spoken script for the presentation
   requirements.txt
-  figures/                    # exported plots
   data_link.txt               # download link for the dataset
   airbnb_predictions.csv       # model predictions on test.csv (created by the notebook)
 ```
