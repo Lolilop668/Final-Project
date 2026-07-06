@@ -28,7 +28,6 @@ CPE_Project_Group15/
   project_summary.pdf         # the 15-20 page report
   presentation_slides.pdf     # slides for the presentation
   requirements.txt
-  figures/                    # exported plots
   data_link.txt               # download link for the dataset
 ```
 
