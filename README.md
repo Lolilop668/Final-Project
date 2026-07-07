@@ -67,10 +67,10 @@ We compared four models on a validation split taken from `train.csv`.
 
 | Model | MAE | RMSE | R2 |
 |-------|-----|------|-----|
-| Random Forest | 0.285 | 0.396 | 0.695 |
-| Gradient Boosting | 0.303 | 0.413 | 0.667 |
-| Linear Regression | 0.368 | 0.489 | 0.535 |
-| Ridge Regression | 0.368 | 0.489 | 0.535 |
+| Random Forest | 0.316 | 0.433 | 0.641 |
+| Gradient Boosting | 0.316 | 0.413 | 0.628 |
+| Linear Regression | 0.369 | 0.48 | 0.543 |
+| Ridge Regression | 0.369 | 0.48 | 0.543 |
 
 The Random Forest is the best, with Gradient Boosting close behind and the two linear models tied. We kept the Random Forest as the final model because it had the best scores and it reports feature importances, which help explain the predictions. The features it relies on most are room type, the location coordinates, and the number of bathrooms.
 
